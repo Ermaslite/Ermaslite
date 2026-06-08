@@ -9,9 +9,9 @@
 ### Lenguajes
 <p align="left">
   <img src="https://www.ingenioempresa.com/wp-content/uploads/2022/09/C-Language-1-927x1024.png" alt="C" width="50"/>
-  <img src="https://www.pngmart.com/files/23/Python-Logo-PNG-Image.png" alt="Python" width="50"/>
-  <img src="https://logospng.org/wp-content/uploads/java/java-768x432.png" alt="Java" width="50"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/022/424/588/original/java-logo-editorial-free-vector.jpg" alt="Kotlin" width="50"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Python" width="50"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/022/424/588/original/java-logo-editorial-free-vector.jpg" alt="Java" width="50"/>
+  <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="Kotlin" width="50"/>
 </p>
 
 ### Habilidades
