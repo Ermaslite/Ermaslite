@@ -1,16 +1,27 @@
-## Hi there 👋
+# Erik Rodriguez
 
-<!--
-**Ermaslite/Ermaslite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ciberseguridad;Sistemas+Operativos;Codigo+Abierto;Customs+Rooms;Desarrollo+de+Software;Redes+Neuronales;Innovacion+Tecnologica;Automatizacion+de+Procesos)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Habilidades 
+
+### Lenguajes
+- ![C](https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png)  
+- ![Python](https://www.clipartmax.com/png/middle/229-2295150_logo-python-python-lenguaje-de-programacion.png)  
+- ![Java](https://logospng.org/wp-content/uploads/java/java-768x432.png)  
+- ![Kotlin](https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png)  
+
+### Habilidades
+- **Redes:** Cisco  
+- **Seguridad:** Ciberseguridad y Pentesting  
+- **Desarrollo móvil:** Android y Kotlin Multiplatform  
+- **Redes Neuronales:** Python aplicado a IA  
+- **Sistemas Operativos:** Distribuciones de Linux, Windows Modificados
+- **Código Abierto:** contribuciones y uso de herramientas open-source  
+- **Custom Rooms:** personalización de entornos y configuraciones avanzadas  
+
+---
+
+## 📬 Contacto
+[![Correo](https://img.shields.io/badge/Email-contacto-red)](mailto:TUEMAIL)
