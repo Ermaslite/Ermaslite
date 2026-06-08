@@ -1,16 +1,18 @@
 # Erik Rodriguez
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ciberseguridad;Sistemas+Operativos;Codigo+Abierto;Customs+Rooms;Desarrollo+de+Software;Redes+Neuronales;Innovacion+Tecnologica;Automatizacion+de+Procesos)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ciberseguridad,+Sistemas+Operativos,+Codigo+Abierto,+Customs+Rooms,+Desarrollo+de+Software,+Redes+Neuronales)
 
 ---
 
 ## Tecnologías y Habilidades 
 
 ### Lenguajes
-- ![C](https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png)  
-- ![Python](https://www.clipartmax.com/png/middle/229-2295150_logo-python-python-lenguaje-de-programacion.png)  
-- ![Java](https://logospng.org/wp-content/uploads/java/java-768x432.png)  
-- ![Kotlin](https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png)  
+<p align="left">
+  <img src="https://www.ingenioempresa.com/wp-content/uploads/2022/09/C-Language-1-927x1024.png" alt="C" width="50"/>
+  <img src="https://www.pngmart.com/files/23/Python-Logo-PNG-Image.png" alt="Python" width="50"/>
+  <img src="https://logospng.org/wp-content/uploads/java/java-768x432.png" alt="Java" width="50"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/022/424/588/original/java-logo-editorial-free-vector.jpg" alt="Kotlin" width="50"/>
+</p>
 
 ### Habilidades
 - **Redes:** Cisco  
